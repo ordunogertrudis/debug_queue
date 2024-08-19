@@ -76,3 +76,5 @@ class HealthResponse {
 # PR Merge: 2025-10-15 - feature/merge-8483
 
 # PR Merge: 2025-10-15 - enhancement/merge-1033
+
+# PR Merge: 2025-10-15 - docs/merge-6861
